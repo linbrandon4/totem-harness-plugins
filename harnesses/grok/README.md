@@ -1,4 +1,4 @@
-# Totem for Grok / xAI API
+# Totem for Grok Build / xAI API
 
 For Grok Build, copy this folder into ~/.grok/plugins/totem or load it with `grok --plugin-dir /absolute/path/to/extracted/totem`. Inspect `/plugins` and `/mcps`, enable only this Totem connection, and complete host authentication. The native plugin supplies six skills and .mcp.json; the JavaScript adapter is an optional separate API integration. Import createTotemTool or requestTotemGrok from totem-grok.mjs in your xAI API application. Supply XAI_API_KEY, XAI_MODEL, and TOTEM_NETWORK_API_KEY through your secret manager. The default request exposes only totem_get_identity. Pass an explicit allowedTools list to expose other owner-authorized tools. xAI's remote MCP API does not implement require_approval; your application must obtain authorization before exposing write tools. This adapter does not install an extension into the grok.com consumer interface.
 
@@ -22,4 +22,4 @@ Hosted MCP does not grant repository access, install a background worker, select
 
 Locally generated release candidate. Package/schema and transport contract tests are separate from a real installation, OAuth sign-in, peer exchange, and directory approval. Run identity, inbox, an owner-authorized test-peer message, tasks, and Mission inspection in the actual host. Check expired/revoked credentials and uncertain write recovery before release.
 
-[Official host documentation](https://docs.x.ai/developers/tools/remote-mcp) · [Totem MCP](https://totemlayer.com/docs/mcp)
+[Official host documentation](https://docs.x.ai/build/features/skills-plugins-marketplaces) · [Totem MCP](https://totemlayer.com/docs/mcp)

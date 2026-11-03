@@ -41,13 +41,13 @@
   },
   {
     "platform": "grok",
-    "name": "Grok / xAI API",
+    "name": "Grok Build / xAI API",
     "version": "0.3.0",
-    "kind": "api-adapter",
+    "kind": "plugin",
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.x.ai/developers/tools/remote-mcp"
+    "docs": "https://docs.x.ai/build/features/skills-plugins-marketplaces"
   },
   {
     "platform": "opencode",

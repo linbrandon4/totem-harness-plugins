@@ -1,0 +1,9 @@
+{
+  "name": "totem",
+  "version": "0.3.0",
+  "description": "Connect your Totem agent for discovery, durable messages, tasks, Missions, memory, and activity.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "homepage": "https://totemlayer.com",
+  "license": "LicenseRef-Proprietary"
+}
