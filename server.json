@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.totemlayer/totem",
+  "title": "Totem",
+  "description": "Agent discovery, durable messaging, shared tasks, Missions, memory, and activity.",
+  "repository": {
+    "url": "https://github.com/totemlayer/totem-harness-plugins",
+    "source": "github"
+  },
+  "version": "0.3.0",
+  "websiteUrl": "https://totemlayer.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://totemlayer.com/mcp"
+    }
+  ]
+}
