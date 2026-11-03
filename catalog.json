@@ -7,7 +7,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://developers.openai.com/plugins/build/plugins"
+    "docs": "https://developers.openai.com/plugins/build/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 6197,
+        "sha256": "81f4c9c4d0c43ed941f73052f3e700afc53e89c56d454cdd61a2b468395f2bff"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 459,
+        "sha256": "e51421274955b11bbdb7e6edf7f3526b09f909de7894519debac65a3ee5503c5"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2348,
+        "sha256": "179a4da95e8730d9292f1e42f8d2ad5e4680a0af45ca1078d9d328eb2ddf9899"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-chatgpt-0.3.0.zip",
+      "bytes": 19574,
+      "sha256": "0bf7eaae087285c28ce3beace73201ff22e735f447a7cc44c5bab7ff69beafe1"
+    }
   },
   {
     "platform": "codex",
@@ -17,7 +84,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://developers.openai.com/codex/mcp"
+    "docs": "https://developers.openai.com/codex/mcp",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 6197,
+        "sha256": "81f4c9c4d0c43ed941f73052f3e700afc53e89c56d454cdd61a2b468395f2bff"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 459,
+        "sha256": "e51421274955b11bbdb7e6edf7f3526b09f909de7894519debac65a3ee5503c5"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2343,
+        "sha256": "b410d37ca117c78477bb320aff8e0afda47bdd9bf9db93b66b77940041afbc79"
+      },
+      {
+        "path": "config.toml",
+        "bytes": 55,
+        "sha256": "fae8572e489a1775f836383379fcf3de538babcb6fad87c92cfe52749d04d71c"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-codex-0.3.0.zip",
+      "bytes": 19729,
+      "sha256": "76b2f80cea04f3c77b760e36efb718be458032eb0815af67c2aaf38f97325f35"
+    }
   },
   {
     "platform": "claude",
@@ -27,7 +166,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://code.claude.com/docs/en/plugins-reference"
+    "docs": "https://code.claude.com/docs/en/plugins-reference",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".claude-plugin/plugin.json",
+        "bytes": 754,
+        "sha256": "c5b16b29278d76cf193d65773cf6181394c5ce6161df379e596337cfd0222927"
+      },
+      {
+        "path": ".mcp.json",
+        "bytes": 95,
+        "sha256": "142c250a37b2dbf21557a0890b4cc9fd755284bdeb3d417e0f92c887682ebcea"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2344,
+        "sha256": "ff492a5f84bb35a0d4302f61ace20c086762c527b848a3fafb42e163315af808"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-claude-0.3.0.zip",
+      "bytes": 17639,
+      "sha256": "f5eb5c479766e606ad34b382e97046df5bb36518f091cc49de20d669d15ea441"
+    }
   },
   {
     "platform": "claude-desktop",
@@ -37,7 +243,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://modelcontextprotocol.io/docs/develop/connect-local-servers"
+    "docs": "https://modelcontextprotocol.io/docs/develop/connect-local-servers",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "claude_desktop_config.json",
+        "bytes": 255,
+        "sha256": "f2fb5625d8cb447fba9be904d9bb4bf2344c1edbd4788450c44ad2da31801486"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2575,
+        "sha256": "3cb441e071b6be944b4aefb023893026cb90e0c875633a0436ea9187eefb67c4"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-claude-desktop-0.3.0.zip",
+      "bytes": 17384,
+      "sha256": "c8d0a9b858a27e286fd9ec865bd59008e5b07d8551c31899fb1ccb1f432d2ab0"
+    }
   },
   {
     "platform": "grok",
@@ -47,7 +315,161 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.x.ai/build/features/skills-plugins-marketplaces"
+    "docs": "https://docs.x.ai/build/features/skills-plugins-marketplaces",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "totem-grok.mjs",
+        "bytes": 2060,
+        "sha256": "75dca848a3efc0c534ea3d49a24114801a82e2eb92ae0f9343fe63a5f4d79ac0"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "e147d913d44c34033e017930514102991b5595387ef9b1f99447a6fcd411f42b"
+      },
+      {
+        "path": ".grok-plugin/plugin.json",
+        "bytes": 296,
+        "sha256": "787c374a104a0bc08ecd773a5a89aa4e8f69ee9118264b2785b23b33d399f023"
+      },
+      {
+        "path": ".mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 3014,
+        "sha256": "0c6dc73862e7b1364f44b6383d96fb6499caf610b9c2c95b0d624ea8cff1656b"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-grok-0.3.0.zip",
+      "bytes": 19171,
+      "sha256": "12448cadccd1df52f21be320730e71ac80f711d1165f3c7e28f850d0412a27b8"
+    }
+  },
+  {
+    "platform": "grokbot",
+    "name": "Grok Bot",
+    "version": "0.3.0",
+    "kind": "plugin",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://docs.x.ai/grok-bot/computer-and-apps",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".cursor-plugin/plugin.json",
+        "bytes": 279,
+        "sha256": "20026aa022b781596b3ddada927d09c221502ce18ea0d703c81f570cbedd6fb6"
+      },
+      {
+        "path": ".mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2836,
+        "sha256": "29f35e209d1814edb17ada2f5d108491225147eba250d7e3f166a30a556afd27"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-grokbot-0.3.0.zip",
+      "bytes": 17658,
+      "sha256": "b0daec5ce94e920b0df86e357c194cd6c695d15e061c0b3b3f5747e7fe4eefc5"
+    }
   },
   {
     "platform": "opencode",
@@ -57,7 +479,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://opencode.ai/docs/mcp-servers/"
+    "docs": "https://opencode.ai/docs/mcp-servers/",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "opencode.json",
+        "bytes": 177,
+        "sha256": "12f273914a6b087bde2b826dcdf18330fc1a468a48b9ee55acfc030b631a45db"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2355,
+        "sha256": "129668b7be595f6cc1f9c31bcd9c9e693ce801b6519765280eeedfa5bb457d25"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-opencode-0.3.0.zip",
+      "bytes": 17186,
+      "sha256": "df1013a9e89c4b0144beec40c83d36029a3cd550a20f589701ad75cefe4c94a8"
+    }
   },
   {
     "platform": "openclaw",
@@ -67,7 +551,94 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.openclaw.ai/plugins/bundles"
+    "docs": "https://docs.openclaw.ai/plugins/bundles",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "e147d913d44c34033e017930514102991b5595387ef9b1f99447a6fcd411f42b"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 281,
+        "sha256": "5db7a6d18ade115381f66339b8866c300fbb650602b5090118f899381743c6f3"
+      },
+      {
+        "path": ".codex-plugin/plugin.json",
+        "bytes": 256,
+        "sha256": "8f9adf2c9185d9ba21b6c725f47bf38556549407f5dc29bf1e5a3a448685dbb7"
+      },
+      {
+        "path": ".mcp.json",
+        "bytes": 214,
+        "sha256": "27d8391033ac56bb5ee7c47dba03c9ddf5d47c9ad4e9f3a48a156ef91691dfac"
+      },
+      {
+        "path": "package.json",
+        "bytes": 717,
+        "sha256": "ffe7472d48dad3ffbb39143bba23a92eb12a38d46d66129441b09614bbc49769"
+      },
+      {
+        "path": "openclaw.json",
+        "bytes": 244,
+        "sha256": "2e1d73f8896e1bfbd823d2279cd3c5d4c0369f79368116daeae0a5c545d44761"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2581,
+        "sha256": "29a9f08bd1b096e3648d883966c7fd672a048373c256c725a48438dbf7be1dc1"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-openclaw-0.3.0.zip",
+      "bytes": 18990,
+      "sha256": "ef77f95d580b7fdb8e5e1f6a15c9410e908318377e64d7c8b64d6eea6fd9db85"
+    }
   },
   {
     "platform": "hermes",
@@ -77,7 +648,84 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://hermes-agent.nousresearch.com/docs/developer-guide/plugins"
+    "docs": "https://hermes-agent.nousresearch.com/docs/developer-guide/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "e147d913d44c34033e017930514102991b5595387ef9b1f99447a6fcd411f42b"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 281,
+        "sha256": "5db7a6d18ade115381f66339b8866c300fbb650602b5090118f899381743c6f3"
+      },
+      {
+        "path": "config.yaml",
+        "bytes": 86,
+        "sha256": "923f8c49b8dcfaa8bf310270f7d389fcb414f2b466eef0c18d38fc7e09c22b0a"
+      },
+      {
+        "path": "config.fragment.json",
+        "bytes": 113,
+        "sha256": "ce29dc46050bc1680577f8dea6300237c88e34bc5f617ff281f7c0c5334e0a82"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2781,
+        "sha256": "56b3b80fa50733d28b7b2ba94bd54ecd58ec35e501ed0439ac5a01f09095282d"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-hermes-0.3.0.zip",
+      "bytes": 18128,
+      "sha256": "65c803a526418759e67cf733b91aa063eb148baa1046d5be56738dd32c6d9c87"
+    }
   },
   {
     "platform": "gemini",
@@ -87,7 +735,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://geminicli.com/docs/extensions/reference/"
+    "docs": "https://geminicli.com/docs/extensions/reference/",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "gemini-extension.json",
+        "bytes": 285,
+        "sha256": "c2be6ce65d76d931ee127c2fc4c2550a29dff312b64565b9a5f13b86a4eec899"
+      },
+      {
+        "path": "GEMINI.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2408,
+        "sha256": "1740bf0e000e0a2db4878182907d665d249ec7360dc9013aaf9150698c79254c"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-gemini-0.3.0.zip",
+      "bytes": 18691,
+      "sha256": "18ea758a25cbc1beb242995a8b248318c78a78d9652364c74816455565b135f1"
+    }
   },
   {
     "platform": "cursor",
@@ -97,7 +812,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://cursor.com/docs/plugins"
+    "docs": "https://cursor.com/docs/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "e147d913d44c34033e017930514102991b5595387ef9b1f99447a6fcd411f42b"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 194,
+        "sha256": "fd11f7717702c0c3ad596f5e257a388940decd573b1f5a3f24baca765fa8357f"
+      },
+      {
+        "path": ".cursor/mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2460,
+        "sha256": "947d8bdb4bf1073527ab7cf8a4757eca502280b325f97f8435c709a0a59b6f86"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-cursor-0.3.0.zip",
+      "bytes": 17740,
+      "sha256": "86cc9ef940ca053b3023422c90dc0b90bb6a92aa7ca20e2764a73d85bef3570f"
+    }
   },
   {
     "platform": "windsurf",
@@ -107,7 +894,69 @@
     "legacy": true,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.windsurf.com/windsurf/cascade/mcp"
+    "docs": "https://docs.windsurf.com/windsurf/cascade/mcp",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "mcp_config.json",
+        "bytes": 95,
+        "sha256": "b2bf4e6139538b2656ca8e637dba7e5e9bbac17e1fa1876c5079b15c5c53950b"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2446,
+        "sha256": "2ff81f0e2a1657bd955042448abbc48168c1acf7d271c57ff8229f12023cd956"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-windsurf-0.3.0.zip",
+      "bytes": 17192,
+      "sha256": "d99ff16fbb6ee0e779d1dfa849ef1ad18f536d2c407a46dab0642fd6a90dc306"
+    }
   },
   {
     "platform": "devin",
@@ -117,7 +966,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.devin.ai/cli/extensibility/plugins/overview"
+    "docs": "https://docs.devin.ai/cli/extensibility/plugins/overview",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "e147d913d44c34033e017930514102991b5595387ef9b1f99447a6fcd411f42b"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 194,
+        "sha256": "fd11f7717702c0c3ad596f5e257a388940decd573b1f5a3f24baca765fa8357f"
+      },
+      {
+        "path": ".devin/mcp_config.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2500,
+        "sha256": "145d839d209675d3510754d86954657bb3ec45e8cef51ad7f7cda92c7f79dbf4"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-devin-0.3.0.zip",
+      "bytes": 17769,
+      "sha256": "122e44fa1b14d2d1c91276b810d2d7e1a17e88d093474ee14ecbd9be6b0318d7"
+    }
   },
   {
     "platform": "antigravity",
@@ -127,7 +1048,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://antigravity.google/docs/build-plugins"
+    "docs": "https://antigravity.google/docs/build-plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 518,
+        "sha256": "b0b27e7811ac977108d29d5128135192460ff939278dfcfbad848c96064274a8"
+      },
+      {
+        "path": "mcp_config.json",
+        "bytes": 95,
+        "sha256": "b2bf4e6139538b2656ca8e637dba7e5e9bbac17e1fa1876c5079b15c5c53950b"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2413,
+        "sha256": "6320752e5f396c728865c363c1e1b2db6718e761b346afac7c195373ee7e45e9"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-antigravity-0.3.0.zip",
+      "bytes": 17569,
+      "sha256": "07d9ba5821f32b118f5d5f032766047f0750751141939d7eab094ea35564fc91"
+    }
   },
   {
     "platform": "qwen",
@@ -137,7 +1125,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://qwenlm.github.io/qwen-code-docs/en/users/features/mcp/"
+    "docs": "https://qwenlm.github.io/qwen-code-docs/en/users/features/mcp/",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "settings.json",
+        "bytes": 93,
+        "sha256": "2bacd7994f3fec096211c77f7107785b3be08dabe4593f6855e8f1e1cdb23986"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2402,
+        "sha256": "fcce9d68a2bafcf7a2f1c6bd6f8ff2570e09129131534650d5bfb1d8f3c7c4f9"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-qwen-0.3.0.zip",
+      "bytes": 17170,
+      "sha256": "7aea719bce05f79abe39e7f64a140013576474b0a0317185d360578c7ca8aaaf"
+    }
   },
   {
     "platform": "zed",
@@ -147,7 +1197,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://zed.dev/docs/ai/mcp"
+    "docs": "https://zed.dev/docs/ai/mcp",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "settings.json",
+        "bytes": 94,
+        "sha256": "72674e0edbeb9fe68d2c6cf9abfee7ff3463895c30f47ba1717145338d7276ec"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2371,
+        "sha256": "b441f7744f51b1e47348ad3fb6c95a85d930c3ae88a30ad72d2586be4d71d886"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-zed-0.3.0.zip",
+      "bytes": 17155,
+      "sha256": "e9adca7e0006f5a17fdf2a767c5f73c0c9cdf3aa324d6f2c60a6f5407add545e"
+    }
   },
   {
     "platform": "vscode",
@@ -157,7 +1269,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://code.visualstudio.com/docs/agent-customization/mcp-servers"
+    "docs": "https://code.visualstudio.com/docs/agent-customization/mcp-servers",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".vscode/mcp.json",
+        "bytes": 108,
+        "sha256": "7ad0b255080e2232fc6f152e8e6501413ce1a47d73089c1378c62f4ef9e21297"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2436,
+        "sha256": "2e8f75b25ccc95189da14ff277ca08185f5f562e7c89d12a963cd5a2f062f8a8"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-vscode-0.3.0.zip",
+      "bytes": 17206,
+      "sha256": "40b1ff76cdc04da9e8f0ddd7eb2f20cf6a0a16f58606e128be239a028b325384"
+    }
   },
   {
     "platform": "copilot",
@@ -167,7 +1341,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers"
+    "docs": "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "mcp-config.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2389,
+        "sha256": "8aa8fe1e998a1c6b65b6bb2f42bd4bb9b8cfe08b9fdea088383388861ef04c29"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-copilot-0.3.0.zip",
+      "bytes": 17181,
+      "sha256": "34926aaaa28a740bc8d5098fe6bf0b5a8378792fd106878f199a2cdcb99aec3b"
+    }
   },
   {
     "platform": "cline",
@@ -177,7 +1413,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.cline.bot/mcp/configuring-mcp-servers"
+    "docs": "https://docs.cline.bot/mcp/configuring-mcp-servers",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "cline_mcp_settings.json",
+        "bytes": 171,
+        "sha256": "5eb7db66f5966d6c2064a7b6fc2707c26e35c5645464e2e5da50d7ae7517c954"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2402,
+        "sha256": "8e269626e11f9a19efe1745750dbea8fb6a9ef209d05e82f6a7f81d6c2e8d51b"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-cline-0.3.0.zip",
+      "bytes": 17227,
+      "sha256": "3fbbf1c25f140c17c0c3a6794e4f3f86673210125f7a6c1a24cde448486caba7"
+    }
   },
   {
     "platform": "roo",
@@ -187,7 +1485,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://roocodeinc.github.io/Roo-Code/features/mcp/using-mcp-in-roo/"
+    "docs": "https://roocodeinc.github.io/Roo-Code/features/mcp/using-mcp-in-roo/",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".roo/mcp.json",
+        "bytes": 122,
+        "sha256": "83adb1421a25f53356de9d32a843be09c8cedf771573c3caac7c9aee1a674ea1"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2332,
+        "sha256": "1675f7b8161ccde8398a73aaaf07b8f70d2a6b87b50c20df2e71ceeef72368d0"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-roo-0.3.0.zip",
+      "bytes": 17178,
+      "sha256": "be18b715321a54886daacb4d61a56eef43da30664b852851a8080f929e1d77b2"
+    }
   },
   {
     "platform": "continue",
@@ -197,7 +1557,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.continue.dev/customize/deep-dives/mcp"
+    "docs": "https://docs.continue.dev/customize/deep-dives/mcp",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "config.yaml",
+        "bytes": 108,
+        "sha256": "07b3504849737b57da5f70f431f4582beb3e0ab604c11e3a8a40a2d9b269072e"
+      },
+      {
+        "path": "config.fragment.json",
+        "bytes": 136,
+        "sha256": "88657ae237eec90b582856c72b902db982cd97f0093a032e15d676925088d624"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2400,
+        "sha256": "6403118aaaee76076ec28c77ec3357b75df1347b50922683502ce47e9bd080f9"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-continue-0.3.0.zip",
+      "bytes": 17390,
+      "sha256": "5f1800d7d45e2f3aff3d059845ed2f5134110a10a6ffe9912ecdb8ecfc80283c"
+    }
   },
   {
     "platform": "kiro",
@@ -207,7 +1634,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://kiro.dev/docs/mcp/configuration/"
+    "docs": "https://kiro.dev/docs/mcp/configuration/",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "plugin.json",
+        "bytes": 620,
+        "sha256": "8bb7bea3dd452e1e91c0463f9e6f5c519837792a159c976588cf115d93e36e2e"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 194,
+        "sha256": "fd11f7717702c0c3ad596f5e257a388940decd573b1f5a3f24baca765fa8357f"
+      },
+      {
+        "path": ".kiro/settings/mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2740,
+        "sha256": "24fd5039df17035d2daef614e936971b22c5157dd0fe9258c300feea392f0edf"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-kiro-0.3.0.zip",
+      "bytes": 17943,
+      "sha256": "9d60fbb51546419016dccf86d8a8e1b4f21afe48336b917eb27963ac03e12acd"
+    }
   },
   {
     "platform": "goose",
@@ -217,7 +1716,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://github.com/block/goose/blob/main/documentation/docs/getting-started/using-extensions.md"
+    "docs": "https://github.com/block/goose/blob/main/documentation/docs/getting-started/using-extensions.md",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "config.yaml",
+        "bytes": 153,
+        "sha256": "5b66ac463c563de77ca4e9859fb847a08b0877f3106617358f8a1fe7c2012d91"
+      },
+      {
+        "path": "config.fragment.json",
+        "bytes": 189,
+        "sha256": "48ebca9d6877d3eec4ede67b9cf86b8119116e0db908c2c8ed8996e6226f19b6"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2427,
+        "sha256": "dd86930e2754ddf362f47fb4354a5cfeafdec7fc86e19e9ba67a25959e8582bf"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-goose-0.3.0.zip",
+      "bytes": 17431,
+      "sha256": "794411394fcb5db64eb8fb24aa974f4f0ce6af936995ec1bd63540ba1c854a47"
+    }
   },
   {
     "platform": "muse",
@@ -227,7 +1793,69 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://totemlayer.com/docs/mcp"
+    "docs": "https://totemlayer.com/docs/mcp",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 122,
+        "sha256": "83adb1421a25f53356de9d32a843be09c8cedf771573c3caac7c9aee1a674ea1"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2299,
+        "sha256": "667e523ed547d71e2c78d179da0251735be49ff1f8c02f1fdbd5d01a283943ad"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-muse-0.3.0.zip",
+      "bytes": 17121,
+      "sha256": "8e79b665dd52a91e41f4eef39a6003ee9069d7238277e6a7651392b88f3ce5fe"
+    }
   },
   {
     "platform": "factory",
@@ -237,7 +1865,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.factory.com/harness/plugins"
+    "docs": "https://docs.factory.com/harness/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".factory-plugin/plugin.json",
+        "bytes": 279,
+        "sha256": "20026aa022b781596b3ddada927d09c221502ce18ea0d703c81f570cbedd6fb6"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2421,
+        "sha256": "a755aa01a10da6f05c3b3d622c8beff05c9c12907f450e25a86cba23551581ce"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-factory-0.3.0.zip",
+      "bytes": 17480,
+      "sha256": "1d291bad392db1065b5c32a7ba965f02a047762da929a8a07ec0a1d4c9c4212e"
+    }
   },
   {
     "platform": "kilo",
@@ -247,7 +1942,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://kilo.ai/docs/customize/marketplace"
+    "docs": "https://kilo.ai/docs/customize/marketplace",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "MCP.yaml",
+        "bytes": 479,
+        "sha256": "31ba0b92132d8ebfe6d96750f98e8e45f5b8d2f931dd8ca9c1ad142129bab2f7"
+      },
+      {
+        "path": "kilo.json",
+        "bytes": 129,
+        "sha256": "f4801e15bf7204d6977b7b421caed84edcd686c6c6192b6ae0e740cfce6ba91a"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2535,
+        "sha256": "ecb2d3f16bf8f7d48ac279656068d8ffbf7088e57e68e1bd9c217ee956bb756e"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-kilo-0.3.0.zip",
+      "bytes": 17596,
+      "sha256": "aafafede5decfd332928d1034b47e63583dda1e1c8ae49266b6388ac9f00129b"
+    }
   },
   {
     "platform": "pi",
@@ -257,7 +2019,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md"
+    "docs": "https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "package.json",
+        "bytes": 706,
+        "sha256": "ac470a522d6f796262479ec0cd4033426abae776804e2d0c81a5a2c3c5b2d083"
+      },
+      {
+        "path": "index.js",
+        "bytes": 284,
+        "sha256": "1242e3a24cc4285a0f9796f8a2058a0df055c9dae0cb9cba72ab7b01f08b5553"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2616,
+        "sha256": "c72eeeecc59909bcb8b47b3a37c4a1a27b3439ec11ab378d5f61704786cc72cb"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-pi-0.3.0.zip",
+      "bytes": 18020,
+      "sha256": "ea21f90ee855ac6d01c9b130f861d16047d34a0593e63740596026d4db2beb72"
+    }
   },
   {
     "platform": "kimi",
@@ -267,7 +2101,74 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html"
+    "docs": "https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "kimi.plugin.json",
+        "bytes": 488,
+        "sha256": "9c9e937e58bedd8e3a7431d89024f49a5d85523ae356aca6888df22f61cff2bd"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2472,
+        "sha256": "944e7e81e5a8f56b201021d424d7f7bcf370aeec45ba9a51dc169ee4903f2c48"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-kimi-0.3.0.zip",
+      "bytes": 17571,
+      "sha256": "510d787d4fc52067b77dc6cae1d86e1dfa8accb22abd073da910d58399a94cdb"
+    }
   },
   {
     "platform": "amp",
@@ -277,7 +2178,104 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://ampcode.com/docs/customize/plugins"
+    "docs": "https://ampcode.com/docs/customize/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "index.js",
+        "bytes": 479,
+        "sha256": "631e2e5de81bb19a5902efe750d2f761a65f65c082abcc8d08eeddad64a1dbcb"
+      },
+      {
+        "path": "skills/totem-setup/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "skills/totem-messages/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "skills/totem-collaborate/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "skills/totem-missions/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "skills/totem-memory/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "skills/totem-listening/mcp.json",
+        "bytes": 61,
+        "sha256": "b87f4849e286fbc62e1383376200a0099e80275af9eed2daf6751979e0bfa9f4"
+      },
+      {
+        "path": "settings.json",
+        "bytes": 93,
+        "sha256": "7c5246f865080021bba18e599a2c329a5c5893b376781c16040b5df68d03e113"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2571,
+        "sha256": "a1e3da48a69688deabca28dc69d259e536c9ece57cfb552f8da274b95a1d43bb"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-amp-0.3.0.zip",
+      "bytes": 18659,
+      "sha256": "392e4eec722eadab26a5f41a9de9ec020302b1cdb3b105c5628d9eab62030700"
+    }
   },
   {
     "platform": "junie",
@@ -287,7 +2285,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://junie.jetbrains.com/docs/junie-cli-extensions.html"
+    "docs": "https://junie.jetbrains.com/docs/junie-cli-extensions.html",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "extension.json",
+        "bytes": 279,
+        "sha256": "20026aa022b781596b3ddada927d09c221502ce18ea0d703c81f570cbedd6fb6"
+      },
+      {
+        "path": "mcp/.mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 89,
+        "sha256": "79a074a9b47cd4dc873a8701b4bf38afb8ead302dc6177981769141519b4a905"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2552,
+        "sha256": "f2f07a92094d803d36d880c6af22cac51c9ffbb5f9ed47ab048a11e93abb3786"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-junie-0.3.0.zip",
+      "bytes": 17683,
+      "sha256": "86815fdaf06a5bc2ef36d5564d54bcce8e24bdff293b9398f581e3eeaf2bf79d"
+    }
   },
   {
     "platform": "augment",
@@ -297,7 +2367,79 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://docs.augmentcode.com/cli/plugins"
+    "docs": "https://docs.augmentcode.com/cli/plugins",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4125,
+        "sha256": "95ab42978e601dfb995b3edb6b09727014666e59706c54203e8331786384e5f9"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": ".augment-plugin/plugin.json",
+        "bytes": 279,
+        "sha256": "20026aa022b781596b3ddada927d09c221502ce18ea0d703c81f570cbedd6fb6"
+      },
+      {
+        "path": ".mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2581,
+        "sha256": "8f1e026bce633e8e591314ddc0cec4139a059427e25708b426405071c687d6da"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-augment-0.3.0.zip",
+      "bytes": 17725,
+      "sha256": "3a595e8decf41b253344ffeb3794c5e702bcb2ef7a0dec593da77467c46aade9"
+    }
   },
   {
     "platform": "generic",
@@ -307,6 +2449,68 @@
     "legacy": false,
     "status": "candidate",
     "liveVerified": false,
-    "docs": "https://modelcontextprotocol.io/docs/develop/connect-local-servers"
+    "docs": "https://modelcontextprotocol.io/docs/develop/connect-local-servers",
+    "files": [
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 111,
+        "sha256": "c3ef5b5ce9089d64d425b17de10a54106a588a94f3279b96eebe02fcbac15cbf"
+      },
+      {
+        "path": "README.md",
+        "bytes": 2464,
+        "sha256": "c6271822127dbd9b89c426968242b525242dc7bb745292971f0b28bb230ab8dd"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      }
+    ],
+    "archive": {
+      "file": "totem-generic-0.3.0.zip",
+      "bytes": 17190,
+      "sha256": "abe99d3b60948b7aac72538229afd05e5a24976c9285bd775adc1201f5e0a78a"
+    }
   }
 ]

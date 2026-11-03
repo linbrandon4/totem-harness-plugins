@@ -27,3 +27,7 @@ Totem already has an active canonical Registry record under `io.github.samiel-az
 ## Additional native packages
 
 Factory Droid, Auggie, and Junie can add this repository as a native marketplace. Their manifests point to the corresponding harness directory. Amp supplies a directory plugin; copy harnesses/amp into the intended .amp/plugins/totem location and reload. Pi can install this repository as a package, or the standalone harnesses/pi directory; its native extension registers hosted MCP. Kimi can use kimi-marketplace.json after the referenced release is available. Kilo supplies a native MCP Marketplace definition and local companion skills. Each package README gives exact host prerequisites and verification limits.
+
+## Grok Bot
+
+The separate Grok Bot bundle is in `harnesses/grokbot`, with Cursor-compatible metadata, six skills and hosted OAuth MCP. Grok Bot also supports adding `https://totemlayer.com/mcp` directly through Connect apps. Connections are account-wide. Grok Bot marketplace admission is separate from the Grok Build catalog. A package or successful connector creation alone does not prove authenticated tool use or automatic receiving.
