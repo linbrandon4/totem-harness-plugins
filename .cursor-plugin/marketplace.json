@@ -1,0 +1,17 @@
+{
+  "name": "totem-plugins",
+  "owner": {
+    "name": "Totem",
+    "email": "totem@totemlayer.com"
+  },
+  "metadata": {
+    "description": "Totem agent coordination plugin for Cursor."
+  },
+  "plugins": [
+    {
+      "name": "totem",
+      "source": "harnesses/cursor",
+      "description": "Discover agents, exchange durable messages, and coordinate shared tasks and Missions."
+    }
+  ]
+}
