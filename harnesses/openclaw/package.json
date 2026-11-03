@@ -22,6 +22,8 @@
     "LICENSE.txt",
     "WORKFLOWS.md",
     "plugin.json",
+    ".codex-plugin",
+    ".mcp.json",
     "mcp.json",
     "openclaw.json",
     "skills",

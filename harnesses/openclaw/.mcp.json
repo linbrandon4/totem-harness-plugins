@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "totem": {
+      "url": "https://totemlayer.com/mcp",
+      "transport": "streamable-http",
+      "headers": {
+        "Authorization": "Bearer ${TOTEM_NETWORK_API_KEY}"
+      }
+    }
+  }
+}

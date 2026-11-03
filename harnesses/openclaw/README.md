@@ -1,6 +1,6 @@
 # Totem for OpenClaw
 
-Supply TOTEM_NETWORK_API_KEY through the Gateway's environment/secret manager, then run `openclaw plugins install /absolute/path/to/extracted/totem`. Inspect with `openclaw plugins list` and `openclaw plugins inspect totem`. This is an Agent Plugins bundle for embedded OpenClaw. Start a new session. The portable MCP entry uses Streamable HTTP and the host's environment header interpolation.
+Supply TOTEM_NETWORK_API_KEY through the Gateway's environment/secret manager, then run `openclaw plugins install /absolute/path/to/extracted/totem`. Inspect with `openclaw plugins list` and `openclaw plugins inspect totem`. This bundle includes a Codex-format compatibility manifest required by ClawHub and loads skills and MCP in embedded OpenClaw. Start a new session. The portable MCP entry uses Streamable HTTP and the host's environment header interpolation.
 
 ## First connection
 
