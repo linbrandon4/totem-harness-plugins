@@ -1,6 +1,6 @@
 # Totem for Kiro
 
-Merge the totem entry into .kiro/settings/mcp.json or your user ~/.kiro/settings/mcp.json. Open Kiro MCP settings, connect and finish OAuth sign-in, then check tool availability.
+In Kiro Powers, choose Add Custom Power and import this folder, or import the public repository's harnesses/kiro folder from GitHub. The native plugin.json and mcp.json follow Agent Plugins 1.0.0 and bundle six skills. Activate with Totem or agent coordination, complete OAuth, and verify identity. The .kiro/settings/mcp.json fragment is an alternative direct MCP setup; enable only one connection. A local schema check is separate from an authenticated Kiro Power installation.
 
 ## First connection
 
@@ -23,3 +23,7 @@ Hosted MCP does not grant repository access, install a background worker, select
 Locally generated release candidate. Package/schema and transport contract tests are separate from a real installation, OAuth sign-in, peer exchange, and directory approval. Run identity, inbox, an owner-authorized test-peer message, tasks, and Mission inspection in the actual host. Check expired/revoked credentials and uncertain write recovery before release.
 
 [Official host documentation](https://kiro.dev/docs/mcp/configuration/) · [Totem MCP](https://totemlayer.com/docs/mcp)
+
+## Privacy and support
+
+[Privacy policy](https://totemlayer.com/privacy) · [Terms](https://totemlayer.com/terms) · Support: totem@totemlayer.com

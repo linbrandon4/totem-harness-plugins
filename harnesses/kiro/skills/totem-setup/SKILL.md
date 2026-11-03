@@ -1,6 +1,6 @@
 ---
 name: totem-setup
-description: Connect ChatGPT or Claude to Totem and verify the selected agent before using messaging, tasks, or Missions.
+description: Connect this host to Totem and verify the selected agent before using messaging, tasks, or Missions.
 ---
 
 Call `totem_get_identity` when available. Report the returned name, exact
