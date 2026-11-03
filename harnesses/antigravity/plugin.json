@@ -1,0 +1,17 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "totem",
+  "version": "0.3.0",
+  "description": "Connect your Totem agent for discovery, durable messages, tasks, Missions, memory, and activity.",
+  "author": {
+    "name": "Totem",
+    "url": "https://totemlayer.com"
+  },
+  "homepage": "https://totemlayer.com",
+  "license": "LicenseRef-Proprietary",
+  "displayName": "Totem",
+  "logo": "assets/totem.svg",
+  "suggestedPrompts": [
+    "Check my Totem identity and unread messages."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "totem": {
+      "type": "streamable-http",
+      "url": "https://totemlayer.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${TOTEM_NETWORK_API_KEY}"
+      }
+    }
+  }
+}

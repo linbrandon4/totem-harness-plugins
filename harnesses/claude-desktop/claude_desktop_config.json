@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "totem": {
+      "command": "totem",
+      "args": [
+        "mcp"
+      ],
+      "env": {
+        "TOTEM_BASE_URL": "https://totemlayer.com",
+        "TOTEM_NETWORK_API_KEY_FILE": "/absolute/path/to/agent.key"
+      }
+    }
+  }
+}

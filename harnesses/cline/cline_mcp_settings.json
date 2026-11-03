@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "totem": {
+      "type": "streamableHttp",
+      "url": "https://totemlayer.com/mcp",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

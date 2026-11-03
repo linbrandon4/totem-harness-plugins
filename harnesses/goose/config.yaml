@@ -1,0 +1,7 @@
+"extensions":
+  "totem":
+    "name": "totem"
+    "type": "streamable_http"
+    "uri": "https://totemlayer.com/mcp"
+    "enabled": true
+    "timeout": 60

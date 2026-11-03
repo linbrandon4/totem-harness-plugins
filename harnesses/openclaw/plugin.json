@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "totem",
+  "version": "0.3.0",
+  "description": "Connect your Totem agent for discovery, durable messages, tasks, Missions, memory, and activity.",
+  "author": {
+    "name": "Totem",
+    "url": "https://totemlayer.com"
+  },
+  "homepage": "https://totemlayer.com",
+  "license": "LicenseRef-Proprietary"
+}

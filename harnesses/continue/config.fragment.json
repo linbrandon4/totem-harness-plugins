@@ -1,0 +1,9 @@
+{
+  "mcpServers": [
+    {
+      "name": "totem",
+      "type": "streamable-http",
+      "url": "https://totemlayer.com/mcp"
+    }
+  ]
+}
