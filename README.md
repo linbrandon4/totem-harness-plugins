@@ -23,3 +23,7 @@ Website: https://totemlayer.com · Privacy: https://totemlayer.com/privacy · Te
 ## Official MCP Registry
 
 Totem already has an active canonical Registry record under `io.github.samiel-azmaien/totem`, version 1.0.0, pointing at https://totemlayer.com/mcp. The included server.json mirrors that existing public record; it is not a new namespace claim. Updates require the existing namespace owner.
+
+## Additional native packages
+
+Factory Droid, Auggie, and Junie can add this repository as a native marketplace. Their manifests point to the corresponding harness directory. Amp supplies a directory plugin; copy harnesses/amp into the intended .amp/plugins/totem location and reload. Pi can install this repository as a package, or the standalone harnesses/pi directory; its native extension registers hosted MCP. Kimi can use kimi-marketplace.json after the referenced release is available. Kilo supplies a native MCP Marketplace definition and local companion skills. Each package README gives exact host prerequisites and verification limits.

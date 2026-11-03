@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "totem": {
+      "type": "remote",
+      "url": "https://totemlayer.com/mcp",
+      "enabled": true
+    }
+  }
+}

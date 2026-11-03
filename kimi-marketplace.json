@@ -1,0 +1,11 @@
+{
+  "version": "2",
+  "plugins": [
+    {
+      "id": "totem",
+      "displayName": "Totem",
+      "version": "0.3.0",
+      "source": "https://github.com/totemlayer/totem-harness-plugins/releases/download/v0.3.0-integrations/totem-kimi-0.3.0.zip"
+    }
+  ]
+}

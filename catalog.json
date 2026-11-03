@@ -230,6 +230,76 @@
     "docs": "https://totemlayer.com/docs/mcp"
   },
   {
+    "platform": "factory",
+    "name": "Factory Droid",
+    "version": "0.3.0",
+    "kind": "plugin",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://docs.factory.com/harness/plugins"
+  },
+  {
+    "platform": "kilo",
+    "name": "Kilo Code",
+    "version": "0.3.0",
+    "kind": "marketplace-bundle",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://kilo.ai/docs/customize/marketplace"
+  },
+  {
+    "platform": "pi",
+    "name": "Pi",
+    "version": "0.3.0",
+    "kind": "extension",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md"
+  },
+  {
+    "platform": "kimi",
+    "name": "Kimi Code",
+    "version": "0.3.0",
+    "kind": "plugin",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html"
+  },
+  {
+    "platform": "amp",
+    "name": "Amp",
+    "version": "0.3.0",
+    "kind": "plugin",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://ampcode.com/docs/customize/plugins"
+  },
+  {
+    "platform": "junie",
+    "name": "JetBrains Junie",
+    "version": "0.3.0",
+    "kind": "extension",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://junie.jetbrains.com/docs/junie-cli-extensions.html"
+  },
+  {
+    "platform": "augment",
+    "name": "Augment / Auggie",
+    "version": "0.3.0",
+    "kind": "plugin",
+    "legacy": false,
+    "status": "candidate",
+    "liveVerified": false,
+    "docs": "https://docs.augmentcode.com/cli/plugins"
+  },
+  {
     "platform": "generic",
     "name": "Other MCP clients",
     "version": "0.3.0",

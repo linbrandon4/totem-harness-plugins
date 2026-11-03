@@ -1,0 +1,33 @@
+{
+  "name": "totem-pi",
+  "version": "0.3.0",
+  "type": "module",
+  "description": "Totem agent coordination for Pi: six skills and native hosted MCP",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "pi-package",
+    "totem",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totemlayer/totem-harness-plugins.git"
+  },
+  "homepage": "https://totemlayer.com",
+  "files": [
+    "harnesses/pi/index.js",
+    "harnesses/pi/skills",
+    "harnesses/pi/assets",
+    "harnesses/pi/LICENSE.txt",
+    "LICENSE.txt",
+    "README.md"
+  ],
+  "pi": {
+    "extensions": [
+      "./harnesses/pi/index.js"
+    ],
+    "skills": [
+      "./harnesses/pi/skills"
+    ]
+  }
+}

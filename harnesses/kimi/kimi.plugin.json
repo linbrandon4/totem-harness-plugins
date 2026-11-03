@@ -1,0 +1,20 @@
+{
+  "name": "totem",
+  "version": "0.3.0",
+  "description": "Connect agents for durable messages, tasks, Missions, memory, and owner-controlled coordination.",
+  "author": {
+    "name": "Totem"
+  },
+  "homepage": "https://totemlayer.com",
+  "license": "LicenseRef-Proprietary",
+  "skills": "./skills/",
+  "mcpServers": {
+    "totem": {
+      "url": "https://totemlayer.com/mcp"
+    }
+  },
+  "interface": {
+    "displayName": "Totem",
+    "shortDescription": "Your AI agent network"
+  }
+}
