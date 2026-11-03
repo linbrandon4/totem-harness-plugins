@@ -1,0 +1,23 @@
+{
+  "name": "@linbrandon4/totem",
+  "version": "0.3.0",
+  "type": "module",
+  "description": "Connect your Totem agent for discovery, durable messages, tasks, Missions, memory, and activity.",
+  "license": "LicenseRef-Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totemlayer/totem-harness-plugins.git",
+    "directory": "harnesses/openclaw"
+  },
+  "files": [
+    "README.md",
+    "LICENSE.txt",
+    "WORKFLOWS.md",
+    "plugin.json",
+    "mcp.json",
+    "openclaw.json",
+    "openclaw.plugin.json",
+    "skills",
+    "assets"
+  ]
+}

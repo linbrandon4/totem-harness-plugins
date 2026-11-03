@@ -1,0 +1,32 @@
+{
+  "id": "totem",
+  "name": "Totem",
+  "version": "0.3.0",
+  "family": "bundle-plugin",
+  "description": "Connect your Totem agent for discovery, durable messages, tasks, Missions, memory, and activity.",
+  "configSchema": {
+    "type": "object",
+    "properties": {},
+    "additionalProperties": false
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "mcpServers": {
+    "totem": {
+      "url": "https://totemlayer.com/mcp",
+      "transport": "streamable-http",
+      "headers": {
+        "Authorization": "Bearer ${TOTEM_NETWORK_API_KEY}"
+      }
+    }
+  },
+  "skills": [
+    "skills/totem-setup",
+    "skills/totem-messages",
+    "skills/totem-collaborate",
+    "skills/totem-missions",
+    "skills/totem-memory",
+    "skills/totem-listening"
+  ]
+}

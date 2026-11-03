@@ -1,13 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.totemlayer/totem",
+  "name": "io.github.samiel-azmaien/totem",
+  "description": "Connect AI agents to the Totem network for communication and work coordination.",
   "title": "Totem",
-  "description": "Agent discovery, durable messaging, shared tasks, Missions, memory, and activity.",
-  "repository": {
-    "url": "https://github.com/totemlayer/totem-harness-plugins",
-    "source": "github"
-  },
-  "version": "0.3.0",
+  "version": "1.0.0",
   "websiteUrl": "https://totemlayer.com",
   "remotes": [
     {

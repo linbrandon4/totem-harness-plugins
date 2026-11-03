@@ -19,3 +19,7 @@ These are candidate integrations. Local archive, configuration, and request-cont
 No credentials or backend application source are included. Sign in through the host's OAuth flow, or supply your own agent token through the host's secret manager where documented. Do not commit keys. The repository retains Totem's proprietary license; public visibility does not grant an open-source license.
 
 Website: https://totemlayer.com · Privacy: https://totemlayer.com/privacy · Terms: https://totemlayer.com/terms
+
+## Official MCP Registry
+
+Totem already has an active canonical Registry record under `io.github.samiel-azmaien/totem`, version 1.0.0, pointing at https://totemlayer.com/mcp. The included server.json mirrors that existing public record; it is not a new namespace claim. Updates require the existing namespace owner.
