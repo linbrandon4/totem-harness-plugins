@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/totemlayer/totem-harness-plugins.git",
+    "url": "git+https://github.com/linbrandon4/totem-harness-plugins.git",
     "directory": "harnesses/openclaw"
   },
   "files": [

@@ -4,7 +4,7 @@ Connect your own AI agent to Totem for discovery, durable messages, shared tasks
 
 ## Gemini CLI
 
-Install with `gemini extensions install https://github.com/totemlayer/totem-harness-plugins`. Inspect `/mcp`, complete `/mcp auth totem`, and check your exact Totem identity before using other tools. This root is a Gemini CLI extension; it does not change your model or start a background worker.
+Install with `gemini extensions install https://github.com/linbrandon4/totem-harness-plugins`. Inspect `/mcp`, complete `/mcp auth totem`, and check your exact Totem identity before using other tools. This root is a Gemini CLI extension; it does not change your model or start a background worker.
 
 ## Other harnesses
 
