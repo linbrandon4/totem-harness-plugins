@@ -1,0 +1,295 @@
+{
+  "version": "0.3.1",
+  "sourceCommit": "9a2afd426fd6aae03fce643e666a39c92e694a0b",
+  "targets": [
+    {
+      "id": "chatgpt",
+      "files": 12,
+      "archive": {
+        "file": "totem-chatgpt-0.3.1.zip",
+        "bytes": 19574,
+        "sha256": "8692ca08c3b1c4e6c1c2d988c91729f9b3d2cde9520a9a1bcff779180b69d9f2"
+      }
+    },
+    {
+      "id": "codex",
+      "files": 13,
+      "archive": {
+        "file": "totem-codex-0.3.1.zip",
+        "bytes": 19729,
+        "sha256": "74a981e215190f23326dc71dc711777964ccaa5845b9f6db16110549c05493c6"
+      }
+    },
+    {
+      "id": "claude",
+      "files": 12,
+      "archive": {
+        "file": "totem-claude-0.3.1.zip",
+        "bytes": 17639,
+        "sha256": "94d94c2ab9427afa55b9ed2644475bd4b6a221a5f57a84fe37ad11a09b509a84"
+      }
+    },
+    {
+      "id": "claude-desktop",
+      "files": 11,
+      "archive": {
+        "file": "totem-claude-desktop-0.3.1.zip",
+        "bytes": 17384,
+        "sha256": "86f200ad0de04617e6c9a8f984d4e03e9d65277bd4c6a0a9ff102310b20a91d7"
+      }
+    },
+    {
+      "id": "grok",
+      "files": 14,
+      "archive": {
+        "file": "totem-grok-0.3.1.zip",
+        "bytes": 19172,
+        "sha256": "61be31b2dbff6aaaa837f132ce3dfc3cfc23e34778ae3bb9f0fb46862de25083"
+      }
+    },
+    {
+      "id": "grokbot",
+      "files": 12,
+      "archive": {
+        "file": "totem-grokbot-0.3.1.zip",
+        "bytes": 17658,
+        "sha256": "eea627f29e23edc086792b8d067d1f190551565475bf397a096535c42ec9d3a1"
+      }
+    },
+    {
+      "id": "opencode",
+      "files": 11,
+      "archive": {
+        "file": "totem-opencode-0.3.1.zip",
+        "bytes": 17186,
+        "sha256": "fdcbdaba0985cbd28a71b6ecc6a27a955f801dacf5c15d0a4c5058eb6480666b"
+      }
+    },
+    {
+      "id": "openclaw",
+      "files": 16,
+      "archive": {
+        "file": "totem-openclaw-0.3.1.zip",
+        "bytes": 18957,
+        "sha256": "ab4977a131d0ca2cc5c1d6f882313300584a6912b69ec71a4aa6b2f69ba1de7b"
+      }
+    },
+    {
+      "id": "hermes",
+      "files": 14,
+      "archive": {
+        "file": "totem-hermes-0.3.1.zip",
+        "bytes": 18129,
+        "sha256": "12e1470c9209af51f373943a0d0a94142c6484d0dbd2db2d6f51471f7b68173b"
+      }
+    },
+    {
+      "id": "gemini",
+      "files": 12,
+      "archive": {
+        "file": "totem-gemini-0.3.1.zip",
+        "bytes": 18691,
+        "sha256": "9c2422a7196f601852a5c3c17f601072571e615d8db73c647564980e6c11c343"
+      }
+    },
+    {
+      "id": "cursor",
+      "files": 13,
+      "archive": {
+        "file": "totem-cursor-0.3.1.zip",
+        "bytes": 17741,
+        "sha256": "2f688337ac0cdd6d278aa7670ad45fa8ab45204fcb8c4998e56bb3627d75dabc"
+      }
+    },
+    {
+      "id": "windsurf",
+      "files": 11,
+      "archive": {
+        "file": "totem-windsurf-0.3.1.zip",
+        "bytes": 17192,
+        "sha256": "41e0215a72d7793bc712cb5e938378746930cae7494aefd63395450aad3a849b"
+      }
+    },
+    {
+      "id": "devin",
+      "files": 13,
+      "archive": {
+        "file": "totem-devin-0.3.1.zip",
+        "bytes": 17770,
+        "sha256": "c50d6512c7f62fd901b6ac423b8d0e2a28eb78746f60e31646a64fb49639257f"
+      }
+    },
+    {
+      "id": "antigravity",
+      "files": 12,
+      "archive": {
+        "file": "totem-antigravity-0.3.1.zip",
+        "bytes": 17569,
+        "sha256": "2c49794cc1b2e03b73d359090da51b276aba5f8a1f9ca5e23c0dcb86353b7a48"
+      }
+    },
+    {
+      "id": "qwen",
+      "files": 11,
+      "archive": {
+        "file": "totem-qwen-0.3.1.zip",
+        "bytes": 17170,
+        "sha256": "4263ea4aff73d38b6bbee8f7fb8d34a965cfe2bbdb18868d067f5d0c15783199"
+      }
+    },
+    {
+      "id": "zed",
+      "files": 11,
+      "archive": {
+        "file": "totem-zed-0.3.1.zip",
+        "bytes": 17155,
+        "sha256": "addc12938cec9761c4d96ba61971e707183374597e230225b76dbcba35d31ab3"
+      }
+    },
+    {
+      "id": "vscode",
+      "files": 11,
+      "archive": {
+        "file": "totem-vscode-0.3.1.zip",
+        "bytes": 17206,
+        "sha256": "ac1418265c0ab9eb6b0d3f396dddd50a11deb431b31bab66eab9c20221e34970"
+      }
+    },
+    {
+      "id": "copilot",
+      "files": 11,
+      "archive": {
+        "file": "totem-copilot-0.3.1.zip",
+        "bytes": 17197,
+        "sha256": "4a687a01ab48fd9c45cde3f2d1746019b8ebd17a8350ab36ce57556405bb2d40"
+      }
+    },
+    {
+      "id": "cline",
+      "files": 11,
+      "archive": {
+        "file": "totem-cline-0.3.1.zip",
+        "bytes": 17227,
+        "sha256": "8458e426ab3da18062c9a3234586db3f3942a25ada8a66e10084b5cbcc28a0fd"
+      }
+    },
+    {
+      "id": "roo",
+      "files": 11,
+      "archive": {
+        "file": "totem-roo-0.3.1.zip",
+        "bytes": 17178,
+        "sha256": "497703f7e1877b4a7ae1f1bba6a855789bead6643f3af28792f1c0ffa069cff5"
+      }
+    },
+    {
+      "id": "continue",
+      "files": 12,
+      "archive": {
+        "file": "totem-continue-0.3.1.zip",
+        "bytes": 17390,
+        "sha256": "4714878b9b43d308ee4db550cb55d42dd4a680c394a554fcbf8cd4189c3816e8"
+      }
+    },
+    {
+      "id": "kiro",
+      "files": 13,
+      "archive": {
+        "file": "totem-kiro-0.3.1.zip",
+        "bytes": 17943,
+        "sha256": "481cca1ac6201b84736a3de1c554e593cf97385da9ef14527923c86a38958e2f"
+      }
+    },
+    {
+      "id": "goose",
+      "files": 12,
+      "archive": {
+        "file": "totem-goose-0.3.1.zip",
+        "bytes": 17431,
+        "sha256": "01e6c96012e62369d0baf17c1ce2ea2501cd8f75df6cec3b5bf5ab97dc13fc4c"
+      }
+    },
+    {
+      "id": "muse",
+      "files": 11,
+      "archive": {
+        "file": "totem-muse-0.3.1.zip",
+        "bytes": 17121,
+        "sha256": "5471138c0f198956c3377191061898406be094aa4738be2a8a099f67be0d7f5a"
+      }
+    },
+    {
+      "id": "factory",
+      "files": 12,
+      "archive": {
+        "file": "totem-factory-0.3.1.zip",
+        "bytes": 17480,
+        "sha256": "afc39d398cea3f40f6aa1684c883eb40c437777dcc9e936bc401833973102553"
+      }
+    },
+    {
+      "id": "kilo",
+      "files": 12,
+      "archive": {
+        "file": "totem-kilo-0.3.1.zip",
+        "bytes": 17596,
+        "sha256": "ab7daa10eb7851524348d0f46941a3ff713503a5cc81f8ac475d874349f61842"
+      }
+    },
+    {
+      "id": "pi",
+      "files": 13,
+      "archive": {
+        "file": "totem-pi-0.3.1.zip",
+        "bytes": 18020,
+        "sha256": "8d95f03c4b10715cf5fb0f6f8710dc52f0b39ad5eac63ff8698f379c0e4d8598"
+      }
+    },
+    {
+      "id": "kimi",
+      "files": 12,
+      "archive": {
+        "file": "totem-kimi-0.3.1.zip",
+        "bytes": 17571,
+        "sha256": "c8c20e1a2b323391e6481f698a0f6cf7aafb323572c9569e119edcf43adb6768"
+      }
+    },
+    {
+      "id": "amp",
+      "files": 18,
+      "archive": {
+        "file": "totem-amp-0.3.1.zip",
+        "bytes": 18659,
+        "sha256": "81be5a5aef874606183aa12b1d0cf9803bafe7f3c68d2dd85a19e5b871ff8ecd"
+      }
+    },
+    {
+      "id": "junie",
+      "files": 13,
+      "archive": {
+        "file": "totem-junie-0.3.1.zip",
+        "bytes": 17683,
+        "sha256": "43ab102f61c12f26d858767a5a8f2db9b912cee0f5c25582214f125df9ee70a7"
+      }
+    },
+    {
+      "id": "augment",
+      "files": 13,
+      "archive": {
+        "file": "totem-augment-0.3.1.zip",
+        "bytes": 17725,
+        "sha256": "b5a43a5f2e0afd000e12c7c3c67ce6db460cdae9c8de0ae786fb6e9957a9c630"
+      }
+    },
+    {
+      "id": "generic",
+      "files": 11,
+      "archive": {
+        "file": "totem-generic-0.3.1.zip",
+        "bytes": 17190,
+        "sha256": "32dfd256b68592f065c456f7d9a3ffaafcdc244c7088ed8cd384fd7ae2555d86"
+      }
+    }
+  ],
+  "scope": "Configuration and integration bundle fixes; native OAuth and background readiness require separate host verification."
+}

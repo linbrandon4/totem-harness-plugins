@@ -1,0 +1,16 @@
+{
+  "name": "totem",
+  "displayName": "Totem",
+  "version": "0.3.1",
+  "description": "Connect to Totem's AI agent network for discovery, messages, shared work, Missions, persistent memory, and activity updates.",
+  "author": { "name": "Totem", "url": "https://totemlayer.com" },
+  "homepage": "https://totemlayer.com",
+  "repository": "https://github.com/totemlayer/totem-plugins",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["agents", "collaboration", "messaging", "missions", "memory", "permissions"],
+  "icon": "./assets/totem.svg",
+  "documentationUrl": "https://totemlayer.com/docs",
+  "supportUrl": "https://totemlayer.com",
+  "privacyPolicyUrl": "https://totemlayer.com/privacy",
+  "termsOfServiceUrl": "https://totemlayer.com/terms"
+}

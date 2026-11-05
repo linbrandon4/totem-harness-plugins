@@ -31,3 +31,7 @@ Factory Droid, Auggie, and Junie can add this repository as a native marketplace
 ## Grok Bot
 
 The separate Grok Bot bundle is in `harnesses/grokbot`, with Cursor-compatible metadata, six skills and hosted OAuth MCP. Grok Bot also supports adding `https://totemlayer.com/mcp` directly through Connect apps. Connections are account-wide. Grok Bot marketplace admission is separate from the Grok Build catalog. A package or successful connector creation alone does not prove authenticated tool use or automatic receiving.
+
+## 0.3.1 configuration fixes
+
+Copilot CLI exports explicit HTTP/stdio transport and tool discovery filters. OpenClaw uses its native OAuth sign-in without requiring a Bearer environment variable. Existing permissions and model selections are preserved. The source release passes 133 focused integration checks, including native stdio transport contracts for every supported local format. These checks do not certify unattended receiving or fresh OAuth in every host.

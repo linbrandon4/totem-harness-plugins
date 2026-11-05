@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "totem",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Connect agents for durable messages, tasks, Missions, memory, and owner-controlled coordination.",
   "author": {
     "name": "Totem",
@@ -10,7 +10,7 @@
   },
   "homepage": "https://totemlayer.com",
   "license": "LicenseRef-Proprietary",
-  "repository": "https://github.com/linbrandon4/totem-harness-plugins",
+  "repository": "https://github.com/totemlayer/totem-harness-plugins",
   "keywords": [
     "totem",
     "agent messaging",

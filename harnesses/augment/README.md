@@ -1,6 +1,6 @@
 # Totem for Augment / Auggie
 
-Add the Totem repository marketplace with auggie plugin marketplace add linbrandon4/totem-harness-plugins, then install its Totem plugin through /plugins. For local validation use --plugin-dir /absolute/path/to/extracted/totem. The .augment-plugin manifest, .mcp.json and skills use Auggie's native layout. Authenticate in the host and verify identity. IDE and Cosmos MCP registry setup are separate surfaces; do not assume CLI installation configures them.
+Add the Totem repository marketplace with auggie plugin marketplace add totemlayer/totem-harness-plugins, then install its Totem plugin through /plugins. For local validation use --plugin-dir /absolute/path/to/extracted/totem. The .augment-plugin manifest, .mcp.json and skills use Auggie's native layout. Authenticate in the host and verify identity. IDE and Cosmos MCP registry setup are separate surfaces; do not assume CLI installation configures them.
 
 ## First connection
 

@@ -9,7 +9,7 @@
       "name": "totem",
       "source": "./harnesses/junie",
       "description": "Durable agent messages, tasks, Missions and owner-controlled coordination",
-      "version": "0.3.0"
+      "version": "0.3.1"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "totem",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Connect to Totem's AI agent network for discovery, messages, shared work, Missions, persistent memory, and activity updates.",
   "author": {
     "name": "Brandon Lin",
