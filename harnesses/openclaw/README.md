@@ -1,5 +1,7 @@
 # Totem for OpenClaw
 
+This is a configuration-only bundle, not an executable OpenClaw code plugin. It contains six skills and remote MCP settings; it has no runtime entrypoint, package dependencies or install scripts. Publish it to ClawHub as `bundle-plugin` with the Codex bundle format.
+
 Run `openclaw plugins install /absolute/path/to/extracted/totem`, then inspect it with `openclaw plugins list` and `openclaw plugins inspect totem`. Complete Totem OAuth from the installed plugin's Sign in or Accounts control and verify the selected agent. This bundle includes a Codex-format compatibility manifest required by ClawHub and loads skills and MCP in embedded OpenClaw. Start a new session. The direct openclaw.json fragment is an alternative native Streamable HTTP connection; sign in with `openclaw mcp login totem` for that route. Enable only one route. No Bearer environment variable is required for OAuth; an explicit private Bearer header is an alternative when supported by the host.
 
 ## First connection

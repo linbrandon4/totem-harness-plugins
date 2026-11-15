@@ -546,7 +546,7 @@
   {
     "platform": "openclaw",
     "name": "OpenClaw",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "kind": "plugin",
     "legacy": false,
     "status": "candidate",
@@ -554,59 +554,9 @@
     "docs": "https://docs.openclaw.ai/plugins/bundles",
     "files": [
       {
-        "path": "skills/totem-setup/SKILL.md",
-        "bytes": 4133,
-        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
-      },
-      {
-        "path": "skills/totem-messages/SKILL.md",
-        "bytes": 2855,
-        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
-      },
-      {
-        "path": "skills/totem-collaborate/SKILL.md",
-        "bytes": 2707,
-        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
-      },
-      {
-        "path": "skills/totem-missions/SKILL.md",
-        "bytes": 2340,
-        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
-      },
-      {
-        "path": "skills/totem-memory/SKILL.md",
-        "bytes": 1775,
-        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
-      },
-      {
-        "path": "skills/totem-listening/SKILL.md",
-        "bytes": 2406,
-        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
-      },
-      {
-        "path": "assets/totem.svg",
-        "bytes": 2309,
-        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
-      },
-      {
-        "path": "LICENSE.txt",
-        "bytes": 304,
-        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
-      },
-      {
-        "path": "plugin.json",
-        "bytes": 391,
-        "sha256": "703b435908c9fd786663170303010f0831006f4c206649ed99ab9cda40544272"
-      },
-      {
-        "path": "mcp.json",
-        "bytes": 281,
-        "sha256": "5db7a6d18ade115381f66339b8866c300fbb650602b5090118f899381743c6f3"
-      },
-      {
         "path": ".codex-plugin/plugin.json",
         "bytes": 256,
-        "sha256": "1baa628f8d5810fcaecd0487fad8cdd4a2d6d0f30e0d233eeed1516b766f0a10"
+        "sha256": "931c3d120fc91073e27b4ab1c1530e19433019bfe63a474293e4fde0963405e0"
       },
       {
         "path": ".mcp.json",
@@ -614,9 +564,29 @@
         "sha256": "79e0ae31c11190420948e45931883e87d73864ba85b01b955230bd4e501757bb"
       },
       {
-        "path": "package.json",
-        "bytes": 717,
-        "sha256": "316e9fc6918a9d8e6e7f445221812b196df44e5fb263ae58c398a8a6fa7d87f5"
+        "path": "LICENSE.txt",
+        "bytes": 304,
+        "sha256": "64f45cce8748af108f8bf7be891784aad89427d0503e04aafe1d05c8fdf1847d"
+      },
+      {
+        "path": "README.md",
+        "bytes": 3088,
+        "sha256": "60b02cac3b068de32a799203d81778f954ab132b2a2f6859a15d469a5f287d73"
+      },
+      {
+        "path": "WORKFLOWS.md",
+        "bytes": 15340,
+        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+      },
+      {
+        "path": "assets/totem.svg",
+        "bytes": 2309,
+        "sha256": "d064139d63fe30da52787063a010d3c47204786ea85cc5d2f75181dcc67e15f5"
+      },
+      {
+        "path": "mcp.json",
+        "bytes": 281,
+        "sha256": "5db7a6d18ade115381f66339b8866c300fbb650602b5090118f899381743c6f3"
       },
       {
         "path": "openclaw.json",
@@ -624,20 +594,45 @@
         "sha256": "a8eba50a94f2d13a6b698e64e5fa2018e939a43cec58f5400a04a018eca24336"
       },
       {
-        "path": "README.md",
-        "bytes": 2820,
-        "sha256": "21c813f7fcd5007a4c01080e657a4bcc1de2fcd2983a3999f8f225cb84304d9d"
+        "path": "plugin.json",
+        "bytes": 391,
+        "sha256": "fe067d298d7011a0d1a3063d7931b9b4b5bfc1656eaad39ca998b801ba579e0e"
       },
       {
-        "path": "WORKFLOWS.md",
-        "bytes": 15340,
-        "sha256": "034988f3c1c4819ae3e3ec9a398dfeff440067319de2fe4ae495ebeb8197eb0a"
+        "path": "skills/totem-collaborate/SKILL.md",
+        "bytes": 2707,
+        "sha256": "db8aa20854bb97caccbf6eff1b1e77f145ca7a1c4615690e23031375d7358a81"
+      },
+      {
+        "path": "skills/totem-listening/SKILL.md",
+        "bytes": 2406,
+        "sha256": "db9331be7a146ff7dc201c71ec82462011d1d615f083f88305c2144fc4c3c951"
+      },
+      {
+        "path": "skills/totem-memory/SKILL.md",
+        "bytes": 1775,
+        "sha256": "4895ea7defdc2cfcbe59db9663215abd8db2b396b999b379b75f3af7df0ed629"
+      },
+      {
+        "path": "skills/totem-messages/SKILL.md",
+        "bytes": 2855,
+        "sha256": "868946ff726352ce8200f5b2e0da23b8691513238c23af2b4615c3f301d02414"
+      },
+      {
+        "path": "skills/totem-missions/SKILL.md",
+        "bytes": 2340,
+        "sha256": "2c9e7c9c1a53746182ca8c3b117612a1ef9a2955384c38a2c653db755c9cfd5b"
+      },
+      {
+        "path": "skills/totem-setup/SKILL.md",
+        "bytes": 4133,
+        "sha256": "9fd7b9116f603e6416800fdb9973e088a6dbbb2f5ba4cd428d75101d658c6d75"
       }
     ],
     "archive": {
-      "file": "totem-openclaw-0.3.1.zip",
-      "bytes": 18957,
-      "sha256": "ab4977a131d0ca2cc5c1d6f882313300584a6912b69ec71a4aa6b2f69ba1de7b"
+      "file": "totem-openclaw-0.3.2.zip",
+      "bytes": 18588,
+      "sha256": "71fa393480c3736431b987b316d68e091b4f56a57a3057950eb684e9e697aa8b"
     }
   },
   {
